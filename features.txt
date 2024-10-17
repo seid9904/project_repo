@@ -1,0 +1,4 @@
+- Feature 1: User authentication
+- Feature 2: Responsive design
+- Feature 3: Data visualization
+
